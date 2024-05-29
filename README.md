@@ -1,4 +1,6 @@
-### _natalie juric_
-
 ### education
-New York University, B.A. in Data Science
+B.A., Data Science | New York University (_May 2025_)
+
+### projects
+- spotify database analysis
+
